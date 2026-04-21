@@ -166,9 +166,9 @@ data-analytics-portfolio/
 
 ## 📞 Contact Information
 
-- **Email**: [theakashkumar2211@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/akashkumarpr/]
-- **GitHub**: [https://github.com/theakashkumar22]
+- **Email**: [anoopsachin112@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/anoop-sachin-k/]
+- **GitHub**: [https://github.com/anoopsachin01]
 
 ---
 
