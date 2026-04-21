@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-**Akash Kumar P R** | Aspiring Data Analyst  
+**Anoop Sachin K** | Aspiring Data Analyst  
 *Transforming data into actionable business insights*
 
 ---
